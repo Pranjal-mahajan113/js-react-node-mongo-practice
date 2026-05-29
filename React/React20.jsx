@@ -43,3 +43,4 @@ export default function App() {
 //Render,0 A,0 B,0
 //THEN CLICK:-A,0 AB SETCOUNT+1 DO BAR SO SETCOUT(1)ABHI TURANT UPDATE NHI HOGA B,0 AFTER CLICK RE-RENDER RENDER,1
 
+localStorage.setItem("name","rahul")
